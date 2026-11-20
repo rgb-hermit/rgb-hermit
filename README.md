@@ -1,4 +1,4 @@
-# Hey, I'm Kat.
+# hello.
 
 I'm a product designer who's spent the better part of two decades working with technology, and I'm still fascinated by how people make sense of it.
 
